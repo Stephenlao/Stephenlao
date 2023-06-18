@@ -1,6 +1,10 @@
 
 ###
 
+[![](https://img.shields.io/badge/-@Stephenlao24-%23181717?style=flat-square&logo=github)](https://github.com/Stephenlao)
+[![](https://img.shields.io/badge/-@tombuivn-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://facebook.com/wancr1710)
+[![](https://img.shields.io/badge/-Tuan%20Anh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniaal-nadir/)](https://www.linkedin.com/in/vntuananh/)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Stephenlao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stephenlao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
