@@ -3,9 +3,10 @@
 
 ### 📫 Connect with me:
 
-[![](https://img.shields.io/badge/-@Stephenlao24-%23181717?style=for-the-badge&logo=github)](https://github.com/Stephenlao)
-[![](https://img.shields.io/badge/-@Stephenlao-%231DA1F2?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kobebryant.6011/)
-[![](https://img.shields.io/badge/-@Stephenl24-%23E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/stephenl_24/)
+  [![](https://img.shields.io/badge/-@Stephenlao24-%23181717?style=for-the-badge&logo=github)](https://github.com/Stephenlao)
+  [![](https://img.shields.io/badge/-@Stephenlao-%231DA1F2?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kobebryant.6011/)
+  [![](https://img.shields.io/badge/-@Stephenl24-%23E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/stephenl_24/)
+
 
 
 ### 🔨 Languages & Frameworks:
@@ -14,6 +15,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff)
 ![Css3](https://img.shields.io/badge/-CSS-%23E1306C?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=for-the-badge&logo=java&logoColor=ffffff)
+
+
 
 ###
 
