@@ -10,10 +10,10 @@
 
 ### 🔨 Languages & Frameworks:
 
-[![](https://img.shields.io/badge/-Python-14354C.svg?style=for-the-badge&logo=Python&logoColor=ffffff)](https://www.instagram.com/stephenl_24/)
-[![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff)](https://www.instagram.com/stephenl_24/)
-[![](https://img.shields.io/badge/-CSS-%23E1306C?style=for-the-badge&logo=CSS3&logoColor=ffffff)](https://www.instagram.com/stephenl_24/)
-[![](https://img.shields.io/badge/-Java-E34A86?style=for-the-badge&logo=java&logoColor=ffffff)](https://www.instagram.com/stephenl_24/)
+![Python](https://img.shields.io/badge/-Python-14354C.svg?style=for-the-badge&logo=Python&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff)
+![Css3](https://img.shields.io/badge/-CSS-%23E1306C?style=for-the-badge&logo=CSS3&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=for-the-badge&logo=java&logoColor=ffffff)
 
 ###
 
