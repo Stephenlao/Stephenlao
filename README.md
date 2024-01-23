@@ -1,6 +1,6 @@
 ![](https://github.com/TomHuynhSG/TomHuynhSG/blob/main/assets/intro_header.png?raw=true)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+StephenLao!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+StephenLao!;" />
 </h1>
 
 <h3 align="center">I'm IT student who follows minor data science and data analysis 📊</h3>
