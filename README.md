@@ -8,7 +8,7 @@
 
  
 <div align="center"> 
-  <a href="(https://github.com/Stephenlao)">
+  <a href="https://github.com/Stephenlao">
     <img src="https://img.shields.io/badge/-@Stephenlao24-%23181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.facebook.com/kobebryant.6011/" target="_blank">
